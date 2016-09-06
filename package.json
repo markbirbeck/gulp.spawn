@@ -1,0 +1,15 @@
+{
+  "name": "gulp.spawn",
+  "version": "0.1.0",
+  "description": "Adds a method to Gulp 4 'core' that runs a list of tasks in parallel, using child processes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Birbeck <mark.birbeck@gmail.com> (http://markbirbeck.com/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp.use": "^0.3.1"
+  }
+}
