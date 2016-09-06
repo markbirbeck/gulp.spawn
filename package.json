@@ -1,6 +1,6 @@
 {
   "name": "gulp.spawn",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds a method to Gulp 4 'core' that runs a list of tasks in parallel, using child processes.",
   "main": "index.js",
   "scripts": {
