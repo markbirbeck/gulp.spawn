@@ -8,6 +8,9 @@
   },
   "author": "Mark Birbeck <mark.birbeck@gmail.com> (http://markbirbeck.com/)",
   "license": "MIT",
+  "repository": "git://github.com/markbirbeck/gulp.spawn.git",
+  "bugs": "https://github.com/markbirbeck/gulp.spawn/issues",
+  "homepage": "https://github.com/markbirbeck/gulp.spawn",
   "peerDependencies": {
     "gulp": "gulpjs/gulp#4.0",
     "gulp.use": "^0.3.1"
